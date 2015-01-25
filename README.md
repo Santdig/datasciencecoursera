@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera the data scientist's toolbox repo
+Coursera's 'The Data Scientist's Toolbox' course project repo
